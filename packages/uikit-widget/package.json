@@ -13,6 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "@vitejs/plugin-react": "^2.0.1",
+    "unocss": "^0.45.13",
     "vite": "^3.0.7"
   }
 }
