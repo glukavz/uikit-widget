@@ -15,5 +15,8 @@
     "@vitejs/plugin-react": "^2.0.1",
     "unocss": "^0.45.13",
     "vite": "^3.0.7"
+  },
+  "devDependencies": {
+    "vitepress": "1.0.0-alpha.13"
   }
 }

@@ -8,7 +8,8 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
  <div>
   <Button color="red" />
-
+  <Button color="green" />
+  <Button color="blue" />
  </div>
 )
 
